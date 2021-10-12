@@ -1,38 +1,27 @@
-## How to Get ROMs Legally
+## What's Included
 
-Yes legally! Despite the general opinion, it is perfectly possible to
-purchase and play famous ROMs legally such as Sonic, Castlevania,
-Megaman and more, read the note below for more details.
+While hardware emulation has been upheld as legal on multiple occasions,
+software piracy is entirely illegal. Therefore, rather than using pirated
+games for out of the box functionality as some devices have been known for,
+the FunKey S comes with [61 homebrew games][1]{target=_blank} selected for
+their quality and polish from the [FunKey Wiki's homebrew game list][2]{target=_blank}.
+As the 32 gigabyte MicroSD card included with the FunKey S can fit many
+more games than this, however, users are free to add additional games to
+their devices by simply transferring them via USB.
 
-**The FunKey Wiki** maintains [lists][1]{target=_blank} of legal
-sources for ROMs, including [freeware ROMs][2]{target=_blank},
-[commercial ROMs][3]{target=_blank}, and
-[utilities][4]{target=_blank}.
+!!! note "Acquiring ROMs legally"
 
-!!! note "Note about ROM emulation"
-
-    While ROM emulation is often seen as illegal, and sometimes by
-    extension emulation itself, it is simply not _true_.
-
-    Emulating hardware is perfectly legal, no gray area about this.
-
-    Sharing a software copy though is illegal, so websites that host
-    copied ROMs or bios are illegal, as well as downloading ROMs or
-    bios from them.
-
-    However, if some videogame companies have decided not to share
-    their games as ROMs, it is not the case for all of them. Many
-    companies, even such giants as SEGA, ATARI or Konami sell their
-    retro-games online as ROMs.
-
-    For example, it is perfectly legal to purchase the SEGA Mega Drive
-    and Genesis Classics on [Steam][5]{target=_blank} and play Sonic
-    on your **FunKey S**.
-
+Yes, legally! Despite the widespread notion that emulation implies
+piracy, the ROMs of at least [174 originally-licensed games][3]{target=_blank},
+including several Sonic games via the [SEGA Mega Drive and Genesis Classics][4]{target=_blank}
+collection, can be legally purchased and used on devices such as
+the FunKey S.
+    
 ## Add ROMs to the FunKey S
 
-Connect your **FunKey S** console to your computer and add new games
-as simply as you would do it with a simple USB memory stick:
+Once you have your games ready to go, they can be transferred from your
+computer to your **FunKey S** just as you would transfer files to a USB
+memory stick:
 
 |                         **Display**                                             | **Action**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | :-----------------------------------------------------------------------------: | :----------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -42,19 +31,17 @@ as simply as you would do it with a simple USB memory stick:
 | ![Mount USB Are you sure](/assets/images/Mount_USB_are_you_sure.png){.lightbox} | Press the <i class="funkey-A"></i> key twice to confirm                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | ![Eject USB](/assets/images/Eject_USB.png){.lightbox}                           | "**EJECT USB**" is now displayed instead, now go to your host computer and open a File Explorer window                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | ![USB Drive](/assets/images/USB_Drive.png){.lightbox}                           | You should see the **FunKey S** appear as an USB drive on your computer in the File Explorer (example here with Windows 10)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| ![Copy ROM](/assets/images/Copy_ROM.png){.lightbox}                             | Drag & drop the ROM file and optional artwork file  into the folder corresponding to the emulated console in this USB drive on your computer<br /><br />The artwork file must have the **same base name** as the ROM file with a _.png_ or _.jpg_ extension. It is recommended to resize the artwork to a maximum dimension of 240px (big files will make scrolling less fluid on the launcher)<br />An extensive **list of artwork files** (already resized to 240x240) has been made by Coolie Coolster <a href="https://drive.google.com/drive/folders/1UY4J8b6eMtG_IEtvHLOqGLm-DSgMkokA" target="_blank">here</a>. <br />An otherwise complete list of artwork can be found <a href="https://github.com/libretro-thumbnails/libretro-thumbnails" target="_blank">here</a>. |
+| ![Copy ROM](/assets/images/Copy_ROM.png){.lightbox}                             | Drag & drop the ROM file and optional artwork file  into the folder corresponding to the emulated console in this USB drive on your computer<br /><br />The artwork file must have the **same base name** as the ROM file with a _.png_ or _.jpg_ extension. Additionally, is recommended that artwork files be resized to have maximum dimensions of 240px as large image files can cause the launcher to slow down as it uses additional processing power to resize them each time.<br />Should you prefer to pick your artwork from **box art databases** rather than individually, two options are the <a href="https://github.com/libretro-thumbnails/libretro-thumbnails" target="_blank">LibRetro thumbnail database</a> and the <a href="https://drive.google.com/drive/folders/1k55I5ig_wISP5RGjnH6K63H4LV9s-g3U?usp=sharing" target="_blank">FunKey Wiki's game art databse</a>, with art from the latter already being at the recommended 240px resolution. |
 | ![Eject Drive](/assets/images/Eject_Drive.png){.lightbox}                       | Eject cleanly the USB drive from your computer                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | ![Eject USB Are you sure](/assets/images/Eject_USB_are_you_sure.png){.lightbox} | Back on the **FunKey S**, at the "**EJECT USB**" menu entry, press the <i class="funkey-A"></i> key twice to confirm                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | ![Unmount USB](/assets/images/Mount_USB.png){.lightbox}                         | Press the <i class="funkey-menu"></i> key to return to the launcher screen                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+Should you wish to remove a game from the **FunKey S** at any point,
+the above process can be used to do that as well!
 
-Of course, you can remove games from the **FunKey S** console as you
-would do with a USB memory stick, too!
-
-[1]: https://wiki.funkey-project.com/wiki/Available_third-party_software
+[1]: https://wiki.funkey-project.com/wiki/FunKey_Wiki_Knowledge_Center#Which_games_are_included_on_the_FunKey_S?
 [2]: https://wiki.funkey-project.com/wiki/List_of_emulatable_games_(freeware)
-[3]: https://wiki.funkey-project.com/wiki/List_of_emulatable_games_(commercial)
-[4]: https://wiki.funkey-project.com/wiki/List_of_utilities
-[5]: https://store.steampowered.com/app/34270/SEGA_Mega_Drive_and_Genesis_Classics/
+[3]: https://wiki.funkey-project.com/wiki/List_of_emulatable_games_(commercial)#List_contents
+[4]: https://store.steampowered.com/app/34270/SEGA_Mega_Drive_and_Genesis_Classics/
 
 --8<--
 includes/glossary.md
